@@ -7,6 +7,7 @@ public class GitClass {
 
 		
 		int a = 4;
+		int w = 87;
 	}
 
 }
