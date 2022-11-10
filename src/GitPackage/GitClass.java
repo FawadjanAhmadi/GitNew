@@ -9,7 +9,8 @@ public class GitClass {
 		int a = 4;
 		int w = 87;
 		int ddd=343434343;
-		int fawad = 343242343243434;
+		int fawad = 42343243434;
+		int samin= 4545454;
 	}
 
 }
